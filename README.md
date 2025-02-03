@@ -12,3 +12,4 @@ ja itt nincs discord féle kis markdown text
 </div>
 
 ja de mégis van
+FASZT
